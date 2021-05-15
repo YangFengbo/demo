@@ -1,6 +1,11 @@
 {
-"show": true, 
-    "tool": false, 
-    "browser": false, 
-    "path": "http://www.baidu.com"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
